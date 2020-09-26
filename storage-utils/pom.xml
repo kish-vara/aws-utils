@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>s3-utils</artifactId>
+    <artifactId>storage-utils</artifactId>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
